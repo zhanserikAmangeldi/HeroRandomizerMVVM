@@ -5,13 +5,17 @@ A SwiftUI application that displays information about superheroes using the Supe
 ## Setup Instructions
 
 1. Clone the repository:
-   ```bash
-   $ git clone https://github.com/zhanserikAmangeldi/HeroRandomizerMVVM.git
-   ```
+
+```bash
+git clone https://github.com/zhanserikAmangeldi/HeroRandomizerMVVM.git
+```
+
 2. Open `HeroApp.xcodeproj` in Xcode:
-   ```bash
-   $ open HeroRandomizerMVVM.xcodeproj
-   ```
+
+```bash
+open HeroRandomizerMVVM.xcodeproj
+```
+
 3. Run the app using the simulator or a physical device.
 
 ## Architecture
@@ -35,4 +39,4 @@ The app makes network requests to the **[Superhero API](https://akabab.github.io
 
 ## Video Demonstration
 
-You can watch the demonstartion from youtbue: [https://youtube.com/shorts/XHk3A-kxwUk](https://youtube.com/shorts/XHk3A-kxwUk)
+You can watch the demonstartion from youtbue: [https://youtube.com/shorts/XHk3A-kxwUk](https://youtube.com/shorts/XHk3A-kxwUk).
